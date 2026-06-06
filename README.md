@@ -25,6 +25,7 @@ Certs         Microsoft PL-900 · Microsoft PL-400
 | Project | Description | Stack | Type |
 |---------|-------------|-------|------|
 | [ValkyrieBI](https://www.valkyriebi.com) | Power BI report distribution for B2B — no Pro licenses needed | Python · Azure · Power BI Embedded | SaaS |
+| [PyDian](https://github.com/Fofimatic/PyDian) | Python library for electronic invoicing in Colombia — DIAN standard: XML UBL 2.1, digital signature, SOAP & validation. MIT license, commercial use free | Python · FastAPI · lxml · zeep · cryptography | Open Source |
 [AgentBI](https://github.com/franklincaza/AgentBI) | Agentic monitor that auto-detects stale or failed Power BI datasets and triggers refreshes — no manual intervention needed | Python · FastAPI · Azure AD · Power BI REST API · Ollama · LangChain · MCP | Open Source |
 | [buenasPracticas](https://github.com/Fofimatic/buenasPracticas) | Dev standards wiki for Fofimatic — clean code guidelines across Power Platform, Python, C#, JS and SQL | Markdown · Wiki | Docs |
 | [Ingreso-a-web-selenium](https://github.com/franklincaza/Ingreso-a-web-selenium) | Web login automation with Selenium | Python | RPA |
@@ -33,7 +34,7 @@ Certs         Microsoft PL-900 · Microsoft PL-400
 | [PruebaRpa_OLIMPIA](https://github.com/franklincaza/PruebaRpa_OLIMPIA) | RPA technical assessment — Robot Framework | Python | RPA |
 | [Ejecutables-BAT](https://github.com/franklincaza/Ejecutables-BAT) | Running `.bat` executables — patterns & guide | Batch | Utility |
 | [For-Each-VBA](https://github.com/franklincaza/-Instrucci-n-For-Each-vba-excel) | `For Each...Next` loop patterns in Excel VBA | VBA | Utility |
-| [PyDian](https://github.com/Fofimatic/PyDian) | Python library for electronic invoicing in Colombia — DIAN standard: XML UBL 2.1, digital signature, SOAP & validation. MIT license, commercial use free | Python · FastAPI · lxml · zeep · cryptography | Open Source |
+
 
 ---
 
