@@ -33,6 +33,7 @@ Certs         Microsoft PL-900 · Microsoft PL-400
 | [PruebaRpa_OLIMPIA](https://github.com/franklincaza/PruebaRpa_OLIMPIA) | RPA technical assessment — Robot Framework | Python | RPA |
 | [Ejecutables-BAT](https://github.com/franklincaza/Ejecutables-BAT) | Running `.bat` executables — patterns & guide | Batch | Utility |
 | [For-Each-VBA](https://github.com/franklincaza/-Instrucci-n-For-Each-vba-excel) | `For Each...Next` loop patterns in Excel VBA | VBA | Utility |
+| [PyDian](https://github.com/Fofimatic/PyDian) | Python library for electronic invoicing in Colombia — DIAN standard: XML UBL 2.1, digital signature, SOAP & validation. MIT license, commercial use free | Python · FastAPI · lxml · zeep · cryptography | Open Source |
 
 ---
 
