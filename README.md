@@ -27,6 +27,7 @@ Certs         Microsoft PL-900 · Microsoft PL-400
 | [ValkyrieBI](https://www.valkyriebi.com) | Power BI report distribution for B2B — no Pro licenses needed | Python · Azure · Power BI Embedded | SaaS |
 | [PyDian](https://github.com/Fofimatic/PyDian) | Python library for electronic invoicing in Colombia — DIAN standard: XML UBL 2.1, digital signature, SOAP & validation. MIT license, commercial use free | Python · FastAPI · lxml · zeep · cryptography | Open Source |
 [AgentBI](https://github.com/franklincaza/AgentBI) | Agentic monitor that auto-detects stale or failed Power BI datasets and triggers refreshes — no manual intervention needed | Python · FastAPI · Azure AD · Power BI REST API · Ollama · LangChain · MCP | Open Source |
+| [MonitorBI](https://github.com/franklincaza/MonitorBI) | Automatically monitors BI report locations on a remote server via SSH — detects stale files, triggers `.bat` remediation scripts, and exposes everything as a REST API and MCP server for AI agents | Python · Flask · SQLite · Paramiko · FastMCP | Open Source |
 | [buenasPracticas](https://github.com/Fofimatic/buenasPracticas) | Dev standards wiki for Fofimatic — clean code guidelines across Power Platform, Python, C#, JS and SQL | Markdown · Wiki | Docs |
 | [Ingreso-a-web-selenium](https://github.com/franklincaza/Ingreso-a-web-selenium) | Web login automation with Selenium | Python | RPA |
 | [Uipath](https://github.com/franklincaza/Uipath) | RPA workflow with TXT file handling | UiPath | RPA |
